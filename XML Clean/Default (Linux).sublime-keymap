@@ -1,0 +1,4 @@
+[
+	{"keys": ["ctrl+shift+x"], "command": "xml_clean" },
+	{"keys": ["ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
+]
